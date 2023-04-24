@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "999.999",
+	"FriendlyName": "ZPlugin",
+	"Description": "For Private Use",
+	"Category" : "Animation, Editor",
+	"CreatedBy": "FjZ345",
+	"CreatedByURL" : "https://github.com/fjz345",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ZPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ZPreviewer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
